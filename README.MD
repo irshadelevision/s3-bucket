@@ -1,0 +1,1 @@
+# Rename .env_sample to .env

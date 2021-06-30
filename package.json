@@ -1,0 +1,28 @@
+{
+  "name": "file-upload-test",
+  "description": "Skipper file upload to any object oriented",
+  "version": "1.0.0",
+  "main": "app.js",
+  "keywords": [
+    "s3",
+    "streaming-file-upload",
+    "streaming",
+    "file",
+    "upload",
+    "sails",
+    "express",
+    "digital ocean space",
+    "linode bucket"
+  ],
+  "author": "Irshad",
+  "license": "MIT",
+  "private": true,
+  "dependencies": {
+    "dotenv": "^10.0.0",
+    "ejs": "^3.1.6",
+    "express": "^4.17.1",
+    "skipper": "^0.8.7",
+    "skipper-better-s3": "^2.3.0",
+    "skipper-s3": "^0.6.0"
+  }
+}
