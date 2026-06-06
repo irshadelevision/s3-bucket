@@ -19,7 +19,7 @@
   "private": true,
   "dependencies": {
     "dotenv": "^10.0.0",
-    "ejs": "^3.1.6",
+    "ejs": "^3.1.10",
     "express": "^4.17.1",
     "skipper": "^0.8.7",
     "skipper-better-s3": "^2.3.0",
